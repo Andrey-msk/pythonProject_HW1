@@ -50,7 +50,7 @@ while last_jogging > first_jogging:
     days += 1
 print(f'Will reach the goal on {days} day')
 # подсмотрел у вас это задание,сам не смог решить
-
+#
 
 
 
